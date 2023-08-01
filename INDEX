@@ -1,0 +1,10 @@
+{
+    "syncthing": {
+        "MANIFEST": "servarr.json",
+        "name": "Servarr",
+        "icon": "https://www.trueos.org/iocage-icons/servarr.png",
+        "description": "Lidarr, Prowlarr, Radarr, Readarr, Sonarr, and Transmission client.",
+        "official": false,
+        "homepage": "https://wiki.servarr.com/"
+    }
+}
