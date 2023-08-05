@@ -2,7 +2,7 @@
     "syncthing": {
         "MANIFEST": "servarr.json",
         "name": "Servarr",
-        "icon": "https://www.trueos.org/iocage-icons/servarr.png",
+        "icon": "https://github.com/tailgear/ioc-apps/blob/628d16b0ecb20c8c98275dc48733c6eae8555b9d/icons/servarr.png",
         "description": "Lidarr, Prowlarr, Radarr, Readarr, Sonarr, and Transmission client.",
         "official": false,
         "homepage": "https://wiki.servarr.com/"
