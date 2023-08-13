@@ -8,9 +8,9 @@
         "nat_forwards": "tcp(1880:1880)"
     },
     "pkgs": [
-      "node",
-      "npm-node",
-      "python"
+        "python",
+        "node",
+        "npm-node"
     ],
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/quarterly",
     "fingerprints": {
