@@ -1,7 +1,7 @@
 {
     "name": "Syncthing",
     "release": "13.1-RELEASE",
-    "artifact": "https://github.com/freenas/iocage-plugin-syncthing.git",
+    "artifact": "https://github.com/tailgear/ioc-app-syncthing.git",
     "official": false,
     "properties": {
         "nat": 1,
