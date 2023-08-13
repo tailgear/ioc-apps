@@ -1,10 +1,20 @@
 {
-    "syncthing": {
+    "servarr": {
         "MANIFEST": "servarr.json",
         "name": "Servarr",
         "icon": "https://github.com/tailgear/ioc-apps/blob/628d16b0ecb20c8c98275dc48733c6eae8555b9d/icons/servarr.png",
         "description": "Lidarr, Prowlarr, Radarr, Readarr, Sonarr, and Transmission client.",
         "official": false,
         "homepage": "https://wiki.servarr.com/"
+    },
+    "syncthing": {
+        "MANIFEST": "syncthing.json",
+        "name": "Syncthing",
+        "icon": "https://www.trueos.org/iocage-icons/syncthing.png",
+        "description": "Open source, peer-to-peer file synchronization application available for many operating systems.",
+        "official": false,
+        "primary_pkg": "syncthing",
+        "category": "collaboration",
+        "homepage": "https://syncthing.net/"
     }
 }
