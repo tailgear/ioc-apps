@@ -9,8 +9,7 @@
     },
     "pkgs": [
         "python",
-        "node",
-        "npm-node"
+        "node"
     ],
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/quarterly",
     "fingerprints": {
