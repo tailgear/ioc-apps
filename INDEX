@@ -16,5 +16,14 @@
         "primary_pkg": "syncthing",
         "category": "collaboration",
         "homepage": "https://syncthing.net/"
+    },
+    "node-red": {
+        "MANIFEST": "node-red.json",
+        "name": "Node-RED",
+        "icon": "https://icons.freenas.org/community-icons/node-red.png",
+        "description": "Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.",
+        "official": false,
+        "primary_pkg": null,
+        "homepage": "https://nodered.org/"
     }
 }
