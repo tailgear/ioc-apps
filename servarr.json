@@ -6,7 +6,7 @@
     "properties": {
         "allow_mlock": 1,
         "nat": 1,
-        "nat_forwards": "tcp(8686:8686),tcp(7878:7878),tcp(8787:8787),tcp(8989:8989),tcp(9696:9696),tcp(9091:9091)"
+        "nat_forwards": "tcp(8686:8686),tcp(7878:7878),tcp(8787:8787),tcp(8989:8989),tcp(9696:9696),tcp(9091:9091),tcp(3000:3000)"
     },
     "pkgs": [
         "lidarr",
@@ -15,7 +15,10 @@
         "sonarr",
         "prowlarr",
         "transmission-daemon",
-        "transmission-web"
+        "transmission-web",
+        "npm",
+        "wget",
+        "unzip"
     ],
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
     "fingerprints": {
