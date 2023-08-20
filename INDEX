@@ -10,7 +10,7 @@
     "syncthing": {
         "MANIFEST": "syncthing.json",
         "name": "Syncthing",
-        "icon": "https://www.trueos.org/iocage-icons/syncthing.png",
+        "icon": "https://www.trueos.org/iocage-icons/nosyncthing.png",
         "description": "Open source, peer-to-peer file synchronization application available for many operating systems.",
         "official": false,
         "primary_pkg": "syncthing",
