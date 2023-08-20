@@ -20,7 +20,7 @@
     "node-red": {
         "MANIFEST": "node-red.json",
         "name": "Node-RED",
-        "icon": "https://cdn.jsdelivr.net/gh/loganmarchione/homelab-svg-assets/assets/nodered.svg",
+        "icon": "https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/node-red.png",
         "description": "Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.",
         "official": false,
         "primary_pkg": null,
