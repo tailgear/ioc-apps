@@ -1,6 +1,6 @@
 {
     "name": "Node-RED",
-    "release": "13.1-RELEASE",
+    "release": "13.2-RELEASE",
     "artifact": "https://github.com/tailgear/ioc-app-node-red.git",
     "official": "false",
     "properties": { 
